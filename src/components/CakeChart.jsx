@@ -1,6 +1,7 @@
 // http://codepen.io/maydie/details/OVmxZZ
 
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import getTextCoordinates from '../utils/getTextCoordinates';
 import createSliceTree from '../utils/createSliceTree';
 import Ring from './Ring';

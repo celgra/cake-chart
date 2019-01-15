@@ -1,6 +1,8 @@
 // http://codepen.io/maydie/details/OVmxZZ
 
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+
 import getAnglePoint from '../utils/getAnglePoint';
 
 export default class Slice extends Component {

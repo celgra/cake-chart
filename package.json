@@ -34,7 +34,8 @@
     "eslint-plugin-react": "^3.2.2"
   },
   "peerDependencies": {
-    "react": "^0.13.3"
+    "react": "^16.7.0",
+    "prop-types": "^15.6.2"
   },
   "dependencies": {
     "classnames": "^2.1.3",
